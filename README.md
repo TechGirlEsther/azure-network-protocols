@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 3 Observe ICMP Traffic
 - Step 4 Observe SSH Traffic
 - Step 5 Observe DNS Traffic
-- Step 7 Observe RDP Traffic
+- Step 6 Observe RDP Traffic
 
 <h2>Actions and Observations</h2>
 
